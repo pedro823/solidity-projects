@@ -1,5 +1,5 @@
-var SimpleStorage = artifacts.require("SimpleStorage");
+var SimpleStorage = artifacts.require('SimpleStorage')
 
 module.exports = (deployer) => {
-  deployer.deploy(SimpleStorage):
+  deployer.deploy(SimpleStorage)
 }
